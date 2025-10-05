@@ -18,7 +18,7 @@ Trata-se de uma **landing page de tributo à banda Drowning Pool**, criada usand
 
 ## Como Visualizar
 
-🔗 **Veja online:** [Clique aqui para acessar](https://azxards.github.io/portfolio/)
+🔗 **Veja online:** <a href="https://azxards.github.io/portfolio/" target="_blank">Clique aqui para acessar</a>
 
 1. Clone o repositório:
    ```bash
